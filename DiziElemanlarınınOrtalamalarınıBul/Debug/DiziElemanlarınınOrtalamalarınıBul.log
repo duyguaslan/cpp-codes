@@ -1,0 +1,6 @@
+﻿  DiziElemanlarınınOrtalamalarınıBul.cpp
+C:\Users\Lenovo\Desktop\c++ Dersleri\Projects\Arrays\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul.cpp(18,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\c++ Dersleri\Projects\Arrays\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul.cpp(30,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\c++ Dersleri\Projects\Arrays\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul.cpp(45,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\c++ Dersleri\Projects\Arrays\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul\DiziElemanlarınınOrtalamalarınıBul.cpp(66,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  DiziElemanlarınınOrtalamalarınıBul.vcxproj -> C:\Users\Lenovo\Desktop\c++ Dersleri\Projects\Arrays\DiziElemanlarınınOrtalamalarınıBul\Debug\DiziElemanlarınınOrtalamalarınıBul.exe
